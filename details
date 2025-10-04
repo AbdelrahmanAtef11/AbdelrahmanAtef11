@@ -1,0 +1,29 @@
+I recently built an interactive Power BI dashboard to analyze Zomato’s restaurant sales data. The goal was to uncover insights about customer behavior, sales performance, and cuisine preferences to support data-driven decision-making.
+
+🔑 Key KPIs extracted from the dashboard:
+💰 Total Sales: 986.6M
+🛒 Total Sales Quantity: 2.4M items
+📦 Orders Count: 300K+
+⭐ Average Rating: 3.6
+🌆 Top City Performance: Tirupati leads with 43M sales
+🥗 Category Sales: Veg (122M) > Non-Veg (106M) > Others (24M)
+📈 Yearly Sales Trend: Peak in 2018 (414M), followed by decline in later years
+👥 Sales by Age: Majority of sales come from 25–30 years old customers
+🍛 Cuisine Insights: Indian cuisine dominates (7.5M), followed by North Indian, Snacks, and Pizza
+
+❓ Key Business Questions Answered:
+Which city drives the highest sales?
+What type of food (Veg vs Non-Veg) generates more revenue?
+Which cuisines are most popular among customers?
+How do sales vary by customer age groups?
+What is the trend of yearly sales — are we growing or declining?
+Which restaurants contribute the most sales and ratings?
+
+💡 Suggestions based on analysis:
+Focus on Veg items since they generate higher revenue compared to Non-Veg.
+Improve average rating (3.6) by enhancing food quality & delivery speed.
+Re-capture sales growth: Sales dropped after 2018 — explore marketing campaigns, loyalty programs, and seasonal offers.
+Target younger demographics (25–30 years) with personalized promotions.
+Expand Indian cuisine variety as it’s the most demanded category.
+Boost underperforming cities (e.g., Sultanpur, Vastrapur) with localized offers to increase sales share.
+✨ This project shows how Business Intelligence tools like Power BI can provide deep insights into restaurant performance, helping decision makers focus on the right strategies for growth.
